@@ -1,0 +1,10 @@
+.header {
+	text-align: center;
+	height: 150px;
+	border-bottom: 0px solid;
+	background-color: grey;
+	margin: 0px auto;
+	padding: 5px;
+	color: white;
+}
+body{ margin: 0px; }
